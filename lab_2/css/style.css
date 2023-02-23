@@ -1,0 +1,18 @@
+.set
+{
+    border: solid;
+    padding: 5px;
+    border-spacing: 2px;
+    background-color:rgb(246, 245, 245);
+    width:500;
+}
+.thead
+{
+    background-color: #dae1f8;
+}
+.tfoot
+{
+    background-color: #5776b1;
+    color:  #fff;
+    text-align:right;
+}
